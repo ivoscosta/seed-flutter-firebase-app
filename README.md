@@ -1,16 +1,17 @@
-# seed-flutter-firebase-app
-A seed Flutter project that already have the following resources:
+# seed_flutter_app
 
-Flutter modular;
-Routes;
-Dialogs;
-i18n;
-globals;
-theme;
-colors;
-dimensions;
-fonts;
-assets;
-utils;
-Firebase;
-Auth with social;
+Um projeto semente que possui os seguintes recursos já implementados:
+
+- Flutter modular; 
+- Routes; 
+- Dialogs;
+- i18n; 
+- globals; 
+- theme; 
+- colors; 
+- dimensions; 
+- fonts; 
+- assets; 
+- utils; 
+- Firebase; 
+- Auth with social;

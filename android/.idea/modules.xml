@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-813933187/android.cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/-813933187/android.cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2128581492/android.firebase_analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/2128581492/android.firebase_analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-155803400/android.firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-155803400/android.firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-694507662/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/-694507662/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1855684799/android.google_sign_in.iml" filepath="$PROJECT_DIR$/.idea/modules/-1855684799/android.google_sign_in.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1656871236/android.launch_review.iml" filepath="$PROJECT_DIR$/.idea/modules/-1656871236/android.launch_review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-327657116/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-327657116/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1593124709/android.share_plus.iml" filepath="$PROJECT_DIR$/.idea/modules/-1593124709/android.share_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1903546869/android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/1903546869/android.sqflite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/249817855/android.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/249817855/android.url_launcher.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c2573d2-44cd-4c34-b10e-ed919788571e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/br/com/composing/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/i18n/pt.json" beforeDir="false" afterPath="$PROJECT_DIR$/../assets/i18n/pt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/GoogleService-Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/GoogleService-Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app/modules/auth/auth_module.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/auth/auth_module.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app/modules/auth/auth_store.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/auth/auth_store.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app/modules/auth/auth_store.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/auth/auth_store.g.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app/modules/auth/pages/forgot_password/forgot_password_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/auth/pages/forgot_password/forgot_password_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app/modules/auth/pages/forgot_password/forgot_password_store.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/auth/pages/forgot_password/forgot_password_store.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app/modules/auth/pages/forgot_password/forgot_password_store.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/auth/pages/forgot_password/forgot_password_store.g.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app/modules/auth/pages/sing_in/sign_in_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/auth/pages/sing_in/sign_in_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app/modules/auth/pages/sing_in/sign_in_store.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/auth/pages/sing_in/sign_in_store.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app/modules/auth/pages/sing_in/sign_in_store.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/auth/pages/sing_in/sign_in_store.g.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app/modules/auth/pages/sing_up/sign_up_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/auth/pages/sing_up/sign_up_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app/modules/auth/pages/sing_up/sign_up_store.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/auth/pages/sing_up/sign_up_store.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app/modules/auth/pages/sing_up/sign_up_store.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/auth/pages/sing_up/sign_up_store.g.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app/modules/auth/repositories/auth_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/auth/repositories/auth_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app/modules/auth/repositories/auth_repository_interface.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/auth/repositories/auth_repository_interface.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app/modules/home/home_module.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/home/home_module.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app/modules/home/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/home/home_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app/modules/home/home_store.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/home/home_store.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app/modules/home/home_store.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/home/home_store.g.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app/modules/profile/profile_module.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/profile/profile_module.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app_controller.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app_controller.g.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/app_module.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app_module.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/core/utils/globals.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/core/utils/globals.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/core/utils/routers.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/core/utils/routers.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/core/utils/util.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/core/utils/util.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[RQ8N208YBQV]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1y2sDyZBJHalOZtaGLITHQQbBWZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1631461144071" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="android.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c2573d2-44cd-4c34-b10e-ed919788571e" name="Default Changelist" comment="" />
+      <created>1631460901279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631460901279</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1396" height="319" key="GridCell.Tab.0.bottom" timestamp="1631462435586">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state width="1396" height="319" key="GridCell.Tab.0.bottom/0.25.1440.818/1440.-118.2560.1055@0.25.1440.818" timestamp="1631462435586" />
+    <state width="1396" height="319" key="GridCell.Tab.0.center" timestamp="1631462435585">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state width="1396" height="319" key="GridCell.Tab.0.center/0.25.1440.818/1440.-118.2560.1055@0.25.1440.818" timestamp="1631462435585" />
+    <state width="1396" height="319" key="GridCell.Tab.0.left" timestamp="1631462435585">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state width="1396" height="319" key="GridCell.Tab.0.left/0.25.1440.818/1440.-118.2560.1055@0.25.1440.818" timestamp="1631462435585" />
+    <state width="1396" height="319" key="GridCell.Tab.0.right" timestamp="1631462435586">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state width="1396" height="319" key="GridCell.Tab.0.right/0.25.1440.818/1440.-118.2560.1055@0.25.1440.818" timestamp="1631462435586" />
+  </component>
+</project>
