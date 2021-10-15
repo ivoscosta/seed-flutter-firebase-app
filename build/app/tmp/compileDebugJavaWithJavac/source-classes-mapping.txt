@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-br/com/agrosegurancabrasil/BuildConfig.java
- br.com.agrosegurancabrasil.BuildConfig
